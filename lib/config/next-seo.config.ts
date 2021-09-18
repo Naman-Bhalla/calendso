@@ -3,7 +3,7 @@ import { DefaultSeoProps } from "next-seo";
 import { HeadSeoProps } from "@components/seo/head-seo";
 
 const seoImages = {
-  default: "https://cal.com/og-image.png",
+  default: "https://pbs.twimg.com/profile_images/1409449176778231809/DL6cvDfQ_400x400.jpg",
   ogImage: "https://og-image-one-pi.vercel.app/",
 };
 
